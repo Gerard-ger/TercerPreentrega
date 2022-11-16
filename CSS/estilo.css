@@ -1,0 +1,143 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap");
+html {
+  font-size: 120%;
+}
+
+body {
+  background-color: #8A4B11;
+  color: #fafafa;
+  font-family: "Roboto", sans-serif;
+}
+
+a {
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: black;
+}
+
+h1 {
+  text-align: center;
+  color: black;
+}
+
+header {
+  background-color: #8A4B11;
+}
+
+li {
+  margin-left: 0px;
+  list-style-type: none;
+  display: inline-block;
+  text-align: center;
+}
+
+/* MAIN */
+.parrafo {
+  text-align: center;
+  font-size: 200%;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+h2 {
+  text-align: center;
+  background-color: #8A4B11;
+}
+
+/* IMAGENES */
+.img-wrapper {
+  text-align: center;
+}
+
+.img-wrapper img {
+  width: 500px;
+  height: auto;
+}
+
+img {
+  width: 300px;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  background-color: #9b7885;
+}
+
+main {
+  background-color: #8A4B11;
+}
+
+p {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+div {
+  text-align: center;
+}
+
+.img-fluid {
+  width: 100%;
+}
+
+.titulo {
+  font-size: 200%;
+}
+
+.parrafoRuta {
+  font-size: 150%;
+}
+
+.imgSize {
+  height: 50%;
+}
+
+.form-check {
+  text-align: center;
+}
+
+.form-check-label {
+  margin: 0;
+}
+
+.navbar {
+  background-color: #8A4B11;
+  text-align: center;
+}
+
+.navbar-nav {
+  text-align: center;
+}
+
+.ulEstilo {
+  text-align: center;
+}
+
+.itemDiv {
+  font-size: 150%;
+}
+
+.itemBurger {
+  justify-content: center;
+}
+
+.encabezado {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tituloprincipal {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+/*# sourceMappingURL=estilo.css.map */
